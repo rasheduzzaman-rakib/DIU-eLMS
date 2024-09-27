@@ -8,3 +8,6 @@ DIU-eLMS is a comprehensive digital platform designed to streamline the educatio
 - **Secure Login:** Ensures a personalized and secure access for both students and faculty.
 
 DIU-eLMS is developed with a focus on enhancing online education and improving academic workflows, fostering a modern learning environment aligned with DIU's commitment to excellence in education.
+
+
+"Projects works are ongoing very soon it will be vailable. Thank You"
